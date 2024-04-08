@@ -120,8 +120,6 @@ develop-eggs/
 downloads/
 eggs/
 .eggs/
-!src/main/java/com/github/curriculeon/arcade/lib
-lib/
 lib64/
 parts/
 sdist/
